@@ -322,3 +322,7 @@ in addition there are also pannellum properties(panorama) which works on video
 ## License
 
 pannellum-react is released under the MIT license.
+
+
+## Change
+.pnlm-load-box = src/pannellum/css/pannellum.css 
